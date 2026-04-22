@@ -1,0 +1,2 @@
+"use strict";(globalThis.webpackChunkcommon=globalThis.webpackChunkcommon||[]).push([[936],{555(e,n,t){t.r(n),t.d(n,{default:()=>o});t(212);var l=t(579);function o(e){let{label:n,onClick:t}=e;return(0,l.jsx)(l.Fragment,{children:(0,l.jsx)("button",{style:{width:"100px",height:"30px",padding:"2px 4px",textAlign:"center",background:"red",color:"white",fontWeight:"bold"},onClick:t,children:n})})}}}]);
+//# sourceMappingURL=936.15ca8f34.chunk.js.map
