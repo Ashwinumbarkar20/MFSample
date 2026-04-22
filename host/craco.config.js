@@ -9,7 +9,7 @@ module.exports = {
           
           
           remotes: {
-            common: "common@http://localhost:3001/remoteEntry.js",
+            common: "common@https://remotemf.netlify.app/remoteEntry.js",
           },
           shared: {
             react: { singleton: true },
